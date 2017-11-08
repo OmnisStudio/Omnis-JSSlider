@@ -1,0 +1,8 @@
+On evStartSlider
+	Calculate iStartValue as pSliderValue
+	
+On evEndSlider
+	Calculate iEndValue as pSliderValue
+	
+On evNewValue
+	Calculate iNewValue as pSliderValue

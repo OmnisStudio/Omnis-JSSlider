@@ -1,0 +1,62 @@
+{
+	"ident": 1011,
+	"order": 10,
+	"objtype": "kComponent",
+	"componentlib": "jsSlider",
+	"componentctrl": "Slider Control",
+	"properties": {
+		"::max": 100,
+		"::min": 0,
+		"::vertical": false,
+		"alpha": 255,
+		"backalpha": 255,
+		"backcolor": "kWhite",
+		"bordercolor": "kColorDefault",
+		"contextmenu": "",
+		"cssclassname": "",
+		"desgroup": 0,
+		"designactive": true,
+		"deslock": false,
+		"disabledefaultcontextmenu": false,
+		"disablesystemfocus": true,
+		"dropmode": "kAcceptNone",
+		"effect": "kJSborderNone",
+		"enabled": true,
+		"events": "evStartSlider,evEndSlider,evNewValue",
+		"fieldstyle": "",
+		"horzmargin": 10,
+		"linestyle": 1,
+		"objlink": 0,
+		"preventlayoutanimation": false,
+		"sliderhorziconid": "k32x32+111181",
+		"sliderverticonid": 1908,
+		"step": 5,
+		"tooltip": "",
+		"userinfo": "",
+		"val": 50,
+		"vertmargin": 10,
+		"visible": true
+	},
+	"layout": {
+		"310": {
+			"left": 5,
+			"top": 340,
+			"width": 300,
+			"height": 30,
+			"dragborder": false,
+			"edgefloat": "kEFright",
+			"errortextpos": "kJSErrorTextPosUnder",
+			"visible": true
+		},
+		"600": {
+			"left": 10,
+			"top": 340,
+			"width": 580,
+			"height": 30,
+			"dragborder": false,
+			"edgefloat": "kEFright",
+			"errortextpos": "kJSErrorTextPosUnder",
+			"visible": true
+		}
+	}
+}
